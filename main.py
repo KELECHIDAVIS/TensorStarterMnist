@@ -35,3 +35,5 @@ model.fit(xTrain, yTrain, epochs = 5)
 
 model.evaluate(xTest, yTest , verbose=2)
 
+print("good job forehead ")
+
